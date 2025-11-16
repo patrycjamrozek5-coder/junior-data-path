@@ -1,2 +1,2 @@
-# Conditional functions - exercises
-My first repository to learn and practice
+A collection of exercises and scripts created while learning Python, data analysis, and programming basics.
+
